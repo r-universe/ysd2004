@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "acdcR"]
+	path = acdcR
+	url = https://github.com/ysd2004/acdcr
+	shallow = true
+	registered = true
